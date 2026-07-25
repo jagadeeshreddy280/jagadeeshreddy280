@@ -1,18 +1,335 @@
-# 💫 About Me:
-I am jagadeeswara reddy. I completed my bachelor's in electronics in 2021<br> <br>⭐ About Me<br>I am a DevOps Engineer with 4.6+ years of experience in Cloud, Kubernetes, CI/CD, Infrastructure Automation, and AI-powered Observability. I specialize in designing scalable, secure, and highly available platforms across AWS and on-premises environments while automating software delivery and operational excellence.<br> <br> I developed PennPulse, an AI-powered observability platform that unifies Metrics, Logs, Traces, Kubernetes Events, and Jenkins Pipelines into a single intelligent dashboard. The platform leverages Prometheus, Grafana, OpenTelemetry, Grafana Tempo, ELK/OpenSearch, and Large Language Models (LLMs) to automate incident investigation, root cause analysis, anomaly detection, and operational insights.<br> <br>🚀 Technical Skills<br><br>☁️ Cloud Platforms<br> AWS (EC2, EKS, IAM, VPC, S3, RDS, Secrets Manager)<br><br>🚀 DevOps & CI/CD<br> Jenkins • GitLab • GitHub • Nexus • CI/CD Pipeline Automation<br><br>🐳 Containers & Orchestration<br> Docker • Kubernetes • Helm • Rancher<br><br>🏗️ Infrastructure as Code (IaC)<br> Terraform<br><br>📊 Observability & Monitoring<br> Prometheus • Grafana • OpenTelemetry • OTEL Collector • Grafana Tempo • ELK Stack (Elasticsearch, Logstash, Kibana)<br><br>🤖 AI & Intelligent Observability<br> PennPulse • Open WebUI • Fable 5 • Opus 4.8 • Ollama • Qwen3 • AI-assisted Root Cause Analysis (RCA) • Incident Summarization • Log Analytics • Anomaly Detection • LLM-powered Troubleshooting<br><br>💻 Scripting & Automation<br> Shell (Bash)<br><br>Contact Me 📬 : Feel free to reach out to me via LinkedIn messaging or at  jagadeeshbhavanam@gmail.com . I'm open to discussing potential partnerships, job opportunities, or simply engaging in meaningful tech-related conversations.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Jagadeeswara Reddy
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/bhavanam jagadeeswara reddy](https://www.linkedin.com/in/bhavanam-jagadeeswara-reddy-1b85801b6/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadeeshbhavanam@gmail.com) 
+### 🚀 DevOps Engineer | Kubernetes | Cloud | AI-Powered Observability | Platform Engineering
 
-# 💻 Tech Stack:
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jagadeeshreddy280&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jagadeeshreddy280&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagadeeshreddy280&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Kubernetes+%7C+AWS+%7C+Terraform;OpenTelemetry+%7C+Prometheus+%7C+Grafana;Observability+Engineer;Platform+Engineer;AI-Powered+Observability+Developer" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=jagadeeshreddy280&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/jagadeeshreddy280?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/jagadeeshreddy280?style=for-the-badge"/>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=jagadeeshreddy280&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 Bachelor's Degree in Electronics (2021)
+
+💼 DevOps Engineer with **4.6+ years** of experience designing scalable cloud-native infrastructure, automating software delivery, and implementing enterprise-grade observability platforms.
+
+I specialize in:
+
+- ☁️ AWS Cloud
+- ☸️ Kubernetes & Rancher
+- 🚀 CI/CD Automation
+- 🏗 Infrastructure as Code
+- 📊 Observability Engineering
+- 🤖 AI-powered Operations (AIOps)
+
+---
+
+# 🚀 What I'm Working On
+
+### 🔥 PennPulse — AI Powered Observability Platform
+
+Designed and developed an intelligent observability platform capable of unifying
+
+- 📈 Metrics
+- 📜 Logs
+- 🔍 Distributed Traces
+- ☸ Kubernetes Events
+- 🚀 Jenkins Pipelines
+
+into one intelligent dashboard.
+
+### Features
+
+- AI Root Cause Analysis
+- Incident Summarization
+- LLM Powered Troubleshooting
+- Service Dependency Mapping
+- Kubernetes Health Monitoring
+- JVM Monitoring
+- Application Performance Monitoring
+- Infrastructure Monitoring
+- Alert Correlation
+- Performance Recommendations
+
+---
+
+# 🛠 Tech Stack
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
+
+---
+
+## 🚀 DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,git,github,gitlab,docker,kubernetes,terraform,bash"/>
+</p>
+
+---
+
+## ☸ Kubernetes Ecosystem
+
+<p>
+
+- Kubernetes
+- Helm
+- Rancher
+- Ingress
+- Services
+- ConfigMaps
+- Secrets
+- StatefulSets
+- Deployments
+- PVC
+- StorageClasses
+
+</p>
+
+---
+
+## 📊 Observability
+
+<p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,opentelemetry,elasticsearch,kibana"/>
+
+</p>
+
+### Monitoring Stack
+
+- Prometheus
+- Grafana
+- OpenTelemetry
+- OTEL Collector
+- Grafana Tempo
+- ELK Stack
+- OpenSearch
+- Data Prepper
+
+---
+
+## ☁ AWS
+
+- EC2
+- EKS
+- IAM
+- VPC
+- S3
+- RDS
+- Secrets Manager
+
+---
+
+## 🏗 Infrastructure as Code
+
+- Terraform
+
+---
+
+## 🤖 AI Tools
+
+- Open WebUI
+- Ollama
+- Qwen
+- Claude
+- ChatGPT
+- Gemini
+- AI-assisted RCA
+- LLM Powered Troubleshooting
+
+---
+
+# 💼 Core Expertise
+
+✅ Kubernetes Administration
+
+✅ CI/CD Pipeline Automation
+
+✅ Docker Containerization
+
+✅ GitOps
+
+✅ Infrastructure Automation
+
+✅ Cloud Architecture
+
+✅ Monitoring & Alerting
+
+✅ Distributed Tracing
+
+✅ Log Analytics
+
+✅ Application Performance Monitoring
+
+✅ Incident Response
+
+✅ Root Cause Analysis
+
+✅ Platform Engineering
+
+---
+
+# 📊 Observability Technologies
+
+| Metrics | Logs | Traces | AI |
+|----------|------|---------|----|
+| Prometheus | ELK | Tempo | LLM |
+| Grafana | OpenSearch | OpenTelemetry | AI RCA |
+| Node Exporter | Kibana | OTEL Collector | AI Analytics |
+| kube-state-metrics | Data Prepper | Jaeger Migration | AI Insights |
+
+---
+
+# 🚀 DevOps Workflow
+
+```text
+Developer
+      │
+      ▼
+ GitHub / GitLab
+      │
+      ▼
+ Jenkins CI/CD
+      │
+      ▼
+ Docker Build
+      │
+      ▼
+ Nexus Repository
+      │
+      ▼
+ Kubernetes Cluster
+      │
+      ▼
+ OpenTelemetry
+      │
+      ▼
+ Prometheus
+ Grafana
+ Tempo
+ OpenSearch
+      │
+      ▼
+ PennPulse AI Platform
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagadeeshreddy280&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshreddy280&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jagadeeshreddy280&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagadeeshreddy280&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jagadeeshreddy280&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- AI Agents
+- MCP Servers
+- Platform Engineering
+- Service Mesh
+- ArgoCD
+- GitOps
+- eBPF
+- Cilium
+- KEDA
+- Crossplane
+- Backstage
+- Kubernetes Security
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become Senior Platform Engineer
+- ✅ Master Kubernetes Internals
+- ✅ Build AI DevOps Assistant
+- ✅ Become CNCF Certified
+- ✅ Contribute to Open Source
+- ✅ Build Enterprise Observability Platform
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/bhavanam-jagadeeswara-reddy-1b85801b6">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jagadeeshbhavanam@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 DevOps Philosophy
+
+> **Automate Everything.**
+>
+> **Observe Everything.**
+>
+> **Scale Everything.**
+>
+> **Improve Continuously.**
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+
+</div>
