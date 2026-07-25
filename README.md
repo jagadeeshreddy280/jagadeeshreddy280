@@ -1,9 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,30:1e3a8a,60:2563eb,100:38bdf8&text=👋Jagadeeswara%20Reddy&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=DevOps%20Engineer%20|%20Kubernetes%20|%20AI%20Observability&descAlignY=58"/>
-<p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,35:1F6FEB,70:238636,100:3FB950&text=Jagadeeswara%20Reddy&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=DevOps%20Engineer%20•%20Kubernetes%20•%20Cloud%20•%20AI-Powered%20Observability&descAlignY=60&animation=fadeIn"/>
+
+<br>
+
 <a href="mailto:jagadeeshbhavanam@gmail.com">
-<img src="https://img.shields.io/badge/jagadeeshbhavanam%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bhavanam-jagadeeswara-reddy-1b85801b6/" target="_blank">
@@ -14,21 +16,27 @@
 
 <img src="https://img.shields.io/github/followers/jagadeeshreddy280?style=for-the-badge"/>
 
-</p>
-
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-💼 DevOps Engineer with **4.6+ years** of experience building scalable cloud-native infrastructure, Kubernetes platforms, CI/CD pipelines, Infrastructure as Code, and enterprise observability solutions.
+🚀 DevOps Engineer with **4.6+ years** of experience in **AWS, Kubernetes, CI/CD, Docker, Terraform, Platform Engineering, and Enterprise Observability**.
 
-I designed and developed **PennPulse**, an AI-powered observability platform that unifies **Metrics, Logs, Traces, Kubernetes Events, and Jenkins Pipelines** into a single intelligent dashboard using **Prometheus, Grafana, OpenTelemetry, Tempo, OpenSearch, ELK, and Large Language Models (LLMs)**.
+💡 Creator of **PennPulse**, an AI-powered observability platform integrating **Metrics, Logs, Traces, Kubernetes Events, and Jenkins Pipelines** using **Prometheus, Grafana, OpenTelemetry, Tempo, OpenSearch, and LLMs**.
+
+🎯 Passionate about **Automation, Kubernetes, AI Observability, Platform Engineering, and Cloud Infrastructure**.
 
 ---
 
-# 💻 Tech Stack
+<table>
+
+<tr>
+
+<td width="58%" valign="top">
+
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -48,80 +56,95 @@ I designed and developed **PennPulse**, an AI-powered observability platform tha
 
 </p>
 
----
+</td>
 
-# ⭐ Featured Project
+<td width="42%" valign="top">
 
-## 🚀 PennPulse — AI Powered Observability Platform
+## 🎯 Current Focus
 
-Unified Enterprise Observability Platform providing
+- ☸ Kubernetes Platform Engineering
 
-- 📊 Metrics
-- 📜 Logs
-- 🔍 Distributed Traces
-- ☸ Kubernetes Monitoring
-- 🚀 Jenkins Integration
-- 🤖 AI Root Cause Analysis
-- 📈 Performance Analytics
-- 💡 LLM-powered Troubleshooting
+- 🚀 OpenTelemetry
 
----
+- 📊 AI-powered Observability
 
-# 🚀 Core Expertise
+- 📈 Grafana Tempo
 
-| DevOps | Observability | Cloud |
-|---------|---------------|-------|
-| Kubernetes | OpenTelemetry | AWS |
-| Docker | Prometheus | Terraform |
-| Jenkins | Grafana | Linux |
-| Helm | Tempo | Rancher |
-| GitLab CI | OpenSearch | Platform Engineering |
+- 🔍 OpenSearch
+
+- ⚙ Platform Automation
+
+- 🤖 LLM Integration
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
+<table>
 
-# 📈 GitHub Statistics
+<tr>
 
-<p align="center">
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jagadeeshreddy280&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 📈 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshreddy280&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jagadeeshreddy280&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br>
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=jagadeeshreddy280&theme=tokyonight&hide_border=true"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=jagadeeshreddy280&theme=tokyonight&hide_border=true"/>
+</td>
 
-</p>
+<td width="50%">
 
----
-
-# 📊 Contribution Graph
-
-<p align="center">
+## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagadeeshreddy280&theme=tokyo-night&hide_border=true"/>
 
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🛠 Currently Working With
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform"/>
+
 </p>
 
 ---
 
+## 🏆 GitHub Achievements
 
-# 🎯 Current Focus
+<p align="center">
 
-- ☸ Kubernetes Platform Engineering
-- 🚀 OpenTelemetry
-- 📊 AI-powered Observability
-- 📈 Grafana Tempo
-- 🔍 OpenSearch
-- 🤖 LLM Integration
-- ⚙ Platform Automation
+<img src="https://github-profile-trophy.vercel.app/?username=jagadeeshreddy280&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -143,8 +166,8 @@ Unified Enterprise Observability Platform providing
 
 <div align="center">
 
-### ⭐ Building Reliable Platforms with Kubernetes, Observability & AI
+### ⭐ Building Reliable Platforms with Kubernetes, Cloud & AI
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f172a,100:2563eb"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,100:238636"/>
 
 </div>
