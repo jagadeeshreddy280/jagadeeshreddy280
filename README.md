@@ -1,9 +1,7 @@
 <div align="center">
 
 <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,35:1F6FEB,70:238636,100:3FB950&text=Jagadeeswara%20Reddy&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=DevOps%20Engineer%20•%20Kubernetes%20•%20Cloud%20•%20AI-Powered%20Observability&descAlignY=60&animation=fadeIn"/>
-
 <br>
-
 <a href="mailto:jagadeeshbhavanam@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
