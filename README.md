@@ -1,17 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,30:1e3a8a,60:2563eb,100:38bdf8&text=Jagadeeswara%20Reddy&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=DevOps%20Engineer%20|%20Kubernetes%20|%20AI%20Observability&descAlignY=58"/>
-
-# 👋 Hi, I'm Jagadeeswara Reddy
-
-### 🚀 DevOps Engineer • Platform Engineer • Kubernetes • Cloud • AI-Powered Observability
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=DevOpsEngineer;Platform+Engineer;Kubernetes+Expert;AWS+Cloud+Engineer;OpenTelemetry+%7C+Prometheus+%7C+Grafana;AI+Powered+Observability"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,30:1e3a8a,60:2563eb,100:38bdf8&text=👋Jagadeeswara%20Reddy&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=DevOps%20Engineer%20|%20Kubernetes%20|%20AI%20Observability&descAlignY=58"/>
 <p>
 
 <a href="mailto:jagadeeshbhavanam@gmail.com">
-<img src="https://img.shields.io/badge/Email-jagadeeshbhavanam%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/jagadeeshbhavanam%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bhavanam-jagadeeswara-reddy-1b85801b6/" target="_blank">
@@ -87,29 +80,6 @@ Unified Enterprise Observability Platform providing
 
 ---
 
-# 📌 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/jagadeeshreddy280/PennPulse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeeshreddy280&repo=PennPulse&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/jagadeeshreddy280/Kubernetes-Monitoring">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeeshreddy280&repo=Kubernetes-Monitoring&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/jagadeeshreddy280/Terraform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeeshreddy280&repo=Terraform&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/jagadeeshreddy280/Jenkins-CI-CD">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeeshreddy280&repo=Jenkins-CI-CD&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
 
 # 📈 GitHub Statistics
 
@@ -139,37 +109,6 @@ Unified Enterprise Observability Platform providing
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action first (see setup below).
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jagadeeshreddy280/jagadeeshreddy280/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jagadeeshreddy280&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# ☁ Certifications
-
-> Update these as you earn them.
-
-- AWS Certified Solutions Architect – Associate *(Planned/In Progress)*
-- Certified Kubernetes Administrator (CKA) *(Planned/In Progress)*
-- HashiCorp Terraform Associate *(Planned/In Progress)*
-
----
 
 # 🎯 Current Focus
 
