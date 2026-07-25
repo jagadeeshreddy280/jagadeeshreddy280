@@ -20,9 +20,9 @@
 
 # 👨‍💻 About Me
 
-🚀 DevOps Engineer with **4.6+ years** of experience in **AWS, Kubernetes, CI/CD, Docker, Terraform, Platform Engineering, and Enterprise Observability**.
+🚀 DevOps Engineer with **4.6+ years** of experience in **AWS, Kubernetes, CI/CD, Docker, Terraform, On-premises, and Enterprise Observability**.
 
-💡 Creator of **PennPulse**, an AI-powered observability platform integrating **Metrics, Logs, Traces, Kubernetes Events, and Jenkins Pipelines** using **Prometheus, Grafana, OpenTelemetry, Tempo, OpenSearch, and LLMs**.
+💡 Buils of **PennPulse**, an AI-powered observability platform integrating **Metrics, Logs, Traces, Kubernetes Events** using **Prometheus, Grafana, OpenTelemetry, Tempo, OpenSearch, and LLMs**.
 
 🎯 Passionate about **Automation, Kubernetes, AI Observability, Platform Engineering, and Cloud Infrastructure**.
 
