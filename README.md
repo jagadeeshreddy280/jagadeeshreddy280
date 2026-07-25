@@ -72,7 +72,7 @@
 
 - ⚙ Platform Automation
 
-- 🤖 LLM Integration
+- 📊 LLM Integration
 
 </td>
 
@@ -89,8 +89,6 @@
 <td width="50%">
 
 ## 📈 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=jagadeeshreddy280&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br>
 
@@ -112,7 +110,7 @@
 
 ---
 
-## 🛠 Currently Working With
+## 🎯 Currently Working With
 
 <p align="center">
 
@@ -127,16 +125,6 @@
 <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jagadeeshreddy280&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -166,6 +154,6 @@
 
 ### ⭐ Building Reliable Platforms with Kubernetes, Cloud & AI
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,100:238636"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0D1117,100:238636"/>
 
 </div>
