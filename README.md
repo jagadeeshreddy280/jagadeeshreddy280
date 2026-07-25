@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I am jagadeeswara reddy. I completed my bachelor's in electronics in 2021<br> <br>⭐ About Me<br>I am a DevOps Engineer with 4.6+ years of experience in Cloud, Kubernetes, CI/CD, Infrastructure Automation, and AI-powered Observability. I specialize in designing scalable, secure, and highly available platforms across AWS and on-premises environments while automating software delivery and operational excellence.<br> <br>Currently at Pennant Technologies, I developed PennPulse, an AI-powered observability platform that unifies Metrics, Logs, Traces, Kubernetes Events, and Jenkins Pipelines into a single intelligent dashboard. The platform leverages Prometheus, Grafana, OpenTelemetry, Grafana Tempo, ELK/OpenSearch, and Large Language Models (LLMs) to automate incident investigation, root cause analysis, anomaly detection, and operational insights.<br> <br>Previously at HCL Technologies, I worked on enterprise observability solutions for Avaloq, implementing cloud infrastructure, Kubernetes deployments, CI/CD automation, and monitoring platforms using AWS, Terraform, Docker, Helm, Jenkins, and Grafana.<br><br><br>🚀 Technical Skills<br><br>☁️ Cloud Platforms<br> AWS (EC2, EKS, IAM, VPC, S3, RDS, Secrets Manager)<br><br>🚀 DevOps & CI/CD<br> Jenkins • GitLab • GitHub • Nexus • CI/CD Pipeline Automation<br><br>🐳 Containers & Orchestration<br> Docker • Kubernetes • Helm • Rancher<br><br>🏗️ Infrastructure as Code (IaC)<br> Terraform<br><br>📊 Observability & Monitoring<br> Prometheus • Grafana • OpenTelemetry • OTEL Collector • Grafana Tempo • ELK Stack (Elasticsearch, Logstash, Kibana)<br><br>🤖 AI & Intelligent Observability<br> PennPulse • Open WebUI • Fable 5 • Opus 4.8 • Ollama • Qwen3 • AI-assisted Root Cause Analysis (RCA) • Incident Summarization • Log Analytics • Anomaly Detection • LLM-powered Troubleshooting<br><br>💻 Scripting & Automation<br> Shell (Bash)<br><br>Contact Me 📬 : Feel free to reach out to me via LinkedIn messaging or at  jagadeeshbhavanam@gmail.com . I'm open to discussing potential partnerships, job opportunities, or simply engaging in meaningful tech-related conversations.
 
-<!--
-**jagadeeshreddy280/jagadeeshreddy280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavanam jagadeeswara reddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadeeshbhavanam@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jagadeeshreddy280&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jagadeeshreddy280&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagadeeshreddy280&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=jagadeeshreddy280&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
