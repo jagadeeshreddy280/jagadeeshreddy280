@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,30:1e3a8a,60:2563eb,100:38bdf8&text=👋Jagadeeswara%20Reddy&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=DevOps%20Engineer%20|%20Kubernetes%20|%20AI%20Observability&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,30:1e3a8a,60:2563eb,100:38bdf8&text=👋Jagadeeswara%20Reddy&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=DevOps%20Engineer%20|%20Kubernetes%20|%20AI%20Observability&descAlignY=58"/>
 <p>
 
 <a href="mailto:jagadeeshbhavanam@gmail.com">
